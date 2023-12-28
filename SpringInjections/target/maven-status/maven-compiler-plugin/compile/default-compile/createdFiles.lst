@@ -1,0 +1,6 @@
+com\mycompany\springinjections\Student.class
+com\mycompany\springinjections\Content.class
+com\mycompany\springinjections\NewServlet.class
+com\mycompany\springinjections\ScoresServlet.class
+com\mycompany\springinjections\resources\JakartaEE10Resource.class
+com\mycompany\springinjections\JakartaRestConfiguration.class
