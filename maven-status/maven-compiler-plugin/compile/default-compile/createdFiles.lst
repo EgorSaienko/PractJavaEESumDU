@@ -1,0 +1,8 @@
+com\mycompany\springorm\resources\JakartaEE10Resource.class
+com\mycompany\springorm\dao\DAO_Student.class
+com\mycompany\springorm\dao\TransactionManager.class
+com\mycompany\springorm\Controlles\StudentController.class
+com\mycompany\springorm\model\Student.class
+com\mycompany\springorm\dao\DAO_Content.class
+com\mycompany\springorm\Controlles\ControllContent.class
+com\mycompany\springorm\model\Content.class
